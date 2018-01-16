@@ -1,5 +1,5 @@
 # flexjs-docs
-A collection of helpful links and information when start working with FlexJS
+A collection of links and information to help you start working with FlexJS.
 
 
 ### Change log
